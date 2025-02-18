@@ -1,0 +1,61 @@
+Package: far2l-plugins-colorer
+Architecture: i686
+Installed-Size: 14512
+Maintainer: @spvkgn
+Version: 2.6.4+git20250217
+Homepage: https://github.com/elfmz/far2l
+Depends: libxml2, far2l (= 2.6.4+git20250217)
+Description: FAR2L colorer plugin
+Filename: dists/termux/extras/binary-i686/far2l-plugins-colorer_2.6.4+git20250217_i686.deb
+Size: 1047592
+MD5Sum: f8207c5422b073699a77500555fca454
+SHA1: 448092b2d304fca5992c79469c0fcaa414606d1c
+SHA256: 6ff4b638c37f500c26b81a8f7944005488d7ee86fac319b628059332639a0df3
+SHA512: 95fd9d38b16447220785d2f3a047855b9153797ddff91e826f3dc31fb166c64d7880ec739915dce9924f4d44d65ba063bf3f319b71633a58afe26e76049d5dc0
+
+Package: far2l-plugins-netrocks
+Architecture: i686
+Installed-Size: 1640
+Maintainer: @spvkgn
+Version: 2.6.4+git20250217
+Homepage: https://github.com/elfmz/far2l
+Depends: libc++, libneon, libnfs, libssh, openssl, samba, far2l (= 2.6.4+git20250217)
+Description: FAR2L NetRocks plugin (SFTP/SCP/FTP/SMB/NFS/WebDAV)
+Filename: dists/termux/extras/binary-i686/far2l-plugins-netrocks_2.6.4+git20250217_i686.deb
+Size: 399024
+MD5Sum: dde130de11fec0472daa5c29becd2bf6
+SHA1: fff3358f33749aeacae029f030a8a95007e5a4f1
+SHA256: b227d064d21b1c6365cb271b12b6abe57f75fd54fd604bba7d5763258e2e8c15
+SHA512: 4106919bacae97e51692b3d45248f966ab5f77d437470cf4150b9ef399fa595afaeead54e65e7fea56221ff9550050dc1ade1ed6c80a506daf647be1cb75360a
+
+Package: far2l-ttyxi
+Architecture: i686
+Installed-Size: 100
+Maintainer: @spvkgn
+Version: 2.6.4+git20250217
+Homepage: https://github.com/elfmz/far2l
+Depends: libc++, libx11, libxi, far2l (= 2.6.4+git20250217)
+Description: X11/Xi extension to provide best UX for TTY backend
+Filename: dists/termux/extras/binary-i686/far2l-ttyxi_2.6.4+git20250217_i686.deb
+Size: 28456
+MD5Sum: dd5ae61c1962bfa885846782b393ca57
+SHA1: 9795b143d34f7dcea55bbd3077dd839a54ca84f5
+SHA256: 4a977fe5a55dd47e08c403ba926525707640ed31ece5de212d10b932fd22e875
+SHA512: cc1dc2604e2a01791b33ba2a21574521f1fb85fefaa56a7ddccb3b75dcee2156681e1f8cf5782712ac773e0880a573cefba2fc119cd5edbc2c34343a558a65fc
+
+Package: far2l
+Architecture: i686
+Installed-Size: 9000
+Maintainer: @spvkgn
+Version: 2.6.4+git20250217
+Homepage: https://github.com/elfmz/far2l
+Depends: libarchive, libc++, libuchardet
+Suggests: chafa, exiftool, htop, timg
+Description: FAR Manager v2
+Filename: dists/termux/extras/binary-i686/far2l_2.6.4+git20250217_i686.deb
+Size: 2108768
+MD5Sum: caa3d15037c4d12b7e0b5f7482ff0e92
+SHA1: de2fec92b4609dba6ba8380a1d03d1c356909ca8
+SHA256: 3f34c0355b50d2ec91be60dcd2f19ded6fbc7b50d9f4aeff0717c7dc67f944be
+SHA512: b1b18b56b3408c6a514ede371dae4965064ea725436e40b6652d763510ea32fbe57ae56ea9e8e24f507b7d4927362e5b605e649c812c3a513a066ed277ceaabc
+
